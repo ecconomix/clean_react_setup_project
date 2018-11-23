@@ -1,0 +1,9 @@
+{
+  "name": "clean_react_setup_project",
+  "version": "1.0.0",
+  "description": "Learn how to setup React app from scratch",
+  "main": "index.js",
+  "repository": "https://github.com/ecconomix/clean_react_setup_project.git",
+  "author": "Oleh Chychkevych",
+  "license": "MIT"
+}
